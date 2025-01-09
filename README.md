@@ -45,5 +45,6 @@ Give different input combinations (A, B) and control signals.
 Check the output against the expected results.
 
 # OUTPUT
+[TASK 1 ALU.docx](https://github.com/user-attachments/files/18356532/TASK.1.ALU.docx)
 
 
